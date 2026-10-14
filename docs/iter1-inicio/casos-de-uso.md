@@ -1,0 +1,9 @@
+- CU-001: Autenticar administrador
+- CU-002: Registrar marcación
+- CU-003: Gestionar trabajadores
+- CU-004: Configurar turnos y tolerancia
+- CU-005: Consultar y filtrar asistencia
+- CU-006: Corregir asistencia
+- CU-007: Exportar asistencia a Excel
+- CU-008: Cambiar contraseña
+- CU-009: Calcular faltas y horas extras
