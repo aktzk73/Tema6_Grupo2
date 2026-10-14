@@ -6,7 +6,7 @@ Desarrollar un sistema web para automatizar el registro y control de asistencia 
 
 ## 2. Problema
 
-Actualmente, los encargados del control de asistencias suelen tener errores con los registros y entre otras problematicas como largas filas de espera y dificultades para consultar la informacion historica.
+Actualmente, los administradores encargados del control de asistencias suelen tener errores con los registros y entre otras problemáticas como largas filas de espera y dificultades para consultar la información histórica.
 
 ## 3. Alcance
 
