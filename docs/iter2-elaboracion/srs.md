@@ -1,4 +1,4 @@
-# SRS - Sistema de asistencia DASYAR (v1.0)
+# SRS - Sistema de asistencia DASYAR (v1.1)
 Línea base de requesitos al inicio de la Fase de Elaboración. Los IDs se mantienen desde la interación 1.
 
 | ID | Requisito |
