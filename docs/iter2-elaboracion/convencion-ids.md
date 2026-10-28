@@ -3,7 +3,7 @@
 Cada elemento tiene un código único. Nunca se reutiliza ni se cambia, aunque el elemento se elimine.
 | Elemento | Formato | Ejemplo |
 | --- | --- |---|
-| Requesito | REQ-### | REQ-003 |
+| Requisito | REQ-### | REQ-003 |
 | Caso de uso | CU-### | CU-003 |
 | Clase | CLS-Nombre | CLS-Asistencia |
 | Prueba | PRU-### | PRU-003 |
